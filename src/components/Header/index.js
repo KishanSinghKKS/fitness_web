@@ -20,17 +20,17 @@ const socials = [
     {
         title: "facebook",
         size: "16",
-        url: " https://www.facebook.com/Fit4SureFitness",
+        url: "https://www.facebook.com/people/Kishan-Singh/pfbid0XACV51UQ1bpdiYHrZhLuhsFKXo7vJPcKXazoJbovThrNBxv6roUQpMeqt6H8Z8fJl/",
     },
     {
         title: "instagram",
         size: "18",
-        url: "https://www.instagram.com/fit4surefitness/ ",
+        url: "https://www.instagram.com/thakur.kishan_singh_?igsh=bHpxcXI2OWxlN3ds",
     },
     {
         title: "linkedin",
         size: "16",
-        url: "https://www.linkedin.com/company/fit4surefitness/",
+        url: "https://www.linkedin.com/in/kishan-singh108/",
     },
 ];
 
@@ -119,7 +119,7 @@ const Headers = () => {
                                 "button button-small",
                                 styles.button
                             )}
-                            to='https://wa.me/9897446147?text="Hello Are you from Fit4Sure?"'
+                            to='https://wa.me/9120378932?text="Hello Are you from Fit4Sure?"'
                         >
                             What’s App
                         </Link>
@@ -137,7 +137,7 @@ const Headers = () => {
                 </div>
                 <Link
                     className={cn("button button-small", styles.button)}
-                    to='https://wa.me/9897446147?text="Hello Are you from Fit4Sure?"'
+                    to='https://wa.me/9120378932?text="Hello Are you from Fit4Sure?"'
                     target="_blank"
                 >
                     What’s App

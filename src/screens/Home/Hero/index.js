@@ -22,7 +22,7 @@ const Hero = ({ scrollToRef }) => {
                     <div className={styles.btns}>
                         <Link
                             className={cn("button", styles.button)}
-                            to='https://wa.me/9897446147?text="Hello Are you from Fit4Sure?"'
+                            to='https://wa.me/9120378932?text="Hello Are you from Fit4Sure?"'
                         >
                             What’s App
                         </Link>

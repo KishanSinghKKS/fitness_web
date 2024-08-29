@@ -28,17 +28,17 @@ const socials = [
     {
         title: "facebook",
         size: "16",
-        url: " https://www.facebook.com/Fit4SureFitness",
+        url: "https://www.facebook.com/profile.php?id=100025336920838",
     },
     {
         title: "instagram",
         size: "18",
-        url: "https://www.instagram.com/fit4surefitness/ ",
+        url: "https://www.instagram.com/thakur.kishan_singh_?igsh=bHpxcXI2OWxlN3ds",
     },
     {
         title: "linkedin",
         size: "16",
-        url: "https://www.linkedin.com/company/fit4surefitness/",
+        url: "www.linkedin.com/in/kishan-singh108",
     },
 ];
 
@@ -92,10 +92,10 @@ const Footer = () => {
                     <div className={styles.col}>
                         <div className={styles.category}>contact</div>
                         <div className={styles.info}>
-                            <p>43252 Borer Mountains</p>
-                            <p>Zackerychester</p>
-                            <p>Bahamas</p>
-                            <p>732-528-4945</p>
+                            <p>Laxmanpur Colony</p>
+                            <p>Bhojuveer</p>
+                            <p>Varanasi</p>
+                            <p>9772408073</p>
                         </div>
                     </div>
                 </div>
