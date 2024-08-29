@@ -1,0 +1,27 @@
+@import ../../../styles/helpers
+.section
+    width: 15%
+    border-right: 2px solid #D9D9D9
+    min-height: 80vh
+    padding-top: 8%
+
+.link
+    display: flex
+    align-items: center
+    color: $neutrals2
+    margin-bottom: 20px
+    padding-left: 20px
+    font-size: 20px
+    font-weight: 500
+    &:hover
+        color: $neutrals4
+    svg
+        fill: $neutrals2
+        transition: fill .2s
+        margin-right: 5px
+    &:hover svg
+        fill: $neutrals4
+    &.active
+        color: $neutrals4
+    &.active svg
+        fill: $neutrals4

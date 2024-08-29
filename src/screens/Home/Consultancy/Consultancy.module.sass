@@ -1,0 +1,83 @@
+@import ../../../styles/helpers
+.container
+    background: #F4F5F6
+
+.wrap
+    padding-top:77px
+    padding-bottom: 100px
+    display: flex
+    justify-content: center
+    align-content: center
+    flex-wrap: wrap
+
+
+.information
+    width: 40%
+    padding-right: 40px
+    +d
+        width:80%
+
+.form
+    width: 60%
+    padding-top: 50px
+    padding-bottom: 50px
+    background: white
+    border-radius: 20px
+    +d
+        width: 80%
+    +m
+        width: 100%
+        padding-left: 6%
+
+.form>div
+    display: flex
+    justify-content: space-around
+    
+
+.label
+    margin-bottom: 20px
+
+.label > input
+    border: 2px solid #E2E1E5
+    width: 250px
+    height: 40px
+    border-radius: 5px
+    margin: 0px 2px 20px 2px
+    padding: 5px
+    font-size: 15px
+    color: #171717
+    +a
+       width: 150px
+
+.label > textarea
+    border: 2px solid #E2E1E5
+    width: 250px
+    height: 80px
+    border-radius: 5px
+    +a
+       width: 150px
+
+.label > select
+    border: 2px solid #E2E1E5
+    width: 250px
+    height: 40px
+    border-radius: 5px
+    margin-bottom: 20px
+    +a
+       width: 150px
+
+.button
+    margin-top: 30px
+
+.headline
+    font: bold
+    font-weight: 650
+    font-size: 40px
+    +m
+       font-size: 30px 
+       font-weight: 600
+
+.description
+    color: #777E90
+    margin-top: 10px
+    margin-bottom: 20px
